@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "node-3b514": {
+      "hosting": {
+        "da-keep": [
+          "node-3b514"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "node-3b514"
+  }
+}
